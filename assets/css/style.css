@@ -116,18 +116,24 @@ p {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+    height: 150px;
+    width: 150px;
 }
 
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+    height: 150px;
+    width: 150px;
 }
 
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+    height: 150px;
+    width: 150px;
 }
 
 .search-engine-optimization {
@@ -157,16 +163,19 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
-    max-height: 200px;
+#search-engine-optimization img {
+    height: 300px;
+    width: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
+#online-reputation-management img {
+    height: 306px;
+    width: 200px;
 }
 
-.social-media-marketing img {
-    max-height: 200px;
+#social-media-marketing img {
+    height: 290px;
+    width: 200px;
 }
 
 .search-engine-optimization h2 {
