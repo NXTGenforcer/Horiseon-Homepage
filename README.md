@@ -2,7 +2,7 @@ h# Horiseon-Homepage
 
 ><h1>Welcome to the Horiseon homepage!</h1>
 
-><h2>We built this page to give users an introduction to us as a team and an idea of what we're trying to accomplish.</h2>
+><h2>We built this page to give users an introduction to us as a team and the idea of what we're trying to accomplish.</h2>
 
 ![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/84356164/128573362-c5574bbd-a643-4e36-be4e-803f98eed562.png)
 
