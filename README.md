@@ -13,4 +13,4 @@ h# Horiseon-Homepage
 
 ><h3>We used VS code, to build our page and github to launch the HTML into a live link, we faced some challenges on the way but it didn't stop our progression, we hope to have much more implemented in the future such as live support chat, a video introdction from our team and many more things.</h3>
 
->
+>https://nxtgenforcer.github.io/Horiseon-Homepage/
